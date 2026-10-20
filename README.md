@@ -1,6 +1,6 @@
 # Practica de Control de versiones en Parejas
 
-Proyecto en parejas
+Proyecto web desarrollado en parejas
 
 ## Autores
 
